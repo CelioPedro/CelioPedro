@@ -7,17 +7,15 @@
 </p>
 
 <p align="center">
-Desenvolvedor focado em criar soluções web que unem performance e boa experiência.<br>
-Estou em constante evolução, sempre aprendendo e buscando escrever códigos cada vez melhores.
+Full Stack Developer focused on building web solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Front-end -->
-  <strong>Front-end:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 
@@ -27,7 +25,6 @@ Estou em constante evolução, sempre aprendendo e buscando escrever códigos ca
 
 <p align="center">
   <!-- Back-end -->
-  <strong>Back-end:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" /> 
@@ -59,7 +56,4 @@ Estou em constante evolução, sempre aprendendo e buscando escrever códigos ca
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />
   </a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.threads.net/@seu-usuario" title="Threads">
-    <img width="32px" src="https://seeklogo.com/images/T/threads-logo-1AB4A3DD5C-seeklogo.com.png" />
-  </a>
 </p>
