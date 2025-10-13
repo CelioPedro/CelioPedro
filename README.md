@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="color: #387CBC;">
-Full Stack Developer focused on building web solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
+Studying Full Stack development focused on building web solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
 </p>
 
 ---
@@ -31,15 +31,15 @@ Full Stack Developer focused on building web solutions that combine high perform
 
 ---
 
-<h3 style="color: #BE90F2;">📊 GitHub Stats</h3>
+<h3 style="color: #BE90F2;">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h3 style="color: #BE90F2;">🌐 Redes Sociais</h3>
+<h3 style="color: #BE90F2;">Socials</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn">
