@@ -12,7 +12,7 @@ Studying Full Stack development focused on building web solutions that combine h
 
 ---
 
-<h3 style="color: #BE90F2;">Best Stack Study</h3>
+<h3 style="color: #BE90F2;">Most Stack Study</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
