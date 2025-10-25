@@ -145,6 +145,6 @@ Studying Full Stack development focused on building web solutions that combine h
 <p align="center"><a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn">
 <img width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 &#8287;&#8287;&#8287;<a href="https://twitter.com/seu-usuario" title="X (Twitter)"><img width="30px" src="https://cdn.simpleicons.org/x/FFFFFF" /></a>
-&#8287;&#8287;&#8287;<a href="https://discord.gg/seu-servidor" title="Discord"><img width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" /></a>
+&#8287;&#8287;&#8287;<a href="https://discord.gg/seu-servidor" title="Discord"><img width="32px" src="https://cdn.simpleicons.org/discord/FFFFFF" /></a>
 &#8287;&#8287;&#8287;
 </p>
