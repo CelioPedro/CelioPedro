@@ -133,7 +133,7 @@ Studying Full Stack development focused on building web solutions that combine h
 
 ---
 
-<h3 style="color: #BE90F2;">Socials</h3>
+<h3 style="color: #BE90F2;">Socials (NOWAY⚠️NOWAY‼️NOWAY⚠️NOWAY) </h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn">
 <img width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
