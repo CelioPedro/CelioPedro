@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="color: #387CBC;">
-Studying Full Stack development focused on building web solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
+Studying Full Stack development focused on building web and APP solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
 </p>
 
 ---
