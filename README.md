@@ -34,7 +34,7 @@ Studying Full Stack development focused on building web and APP solutions that c
 <h3 style="color: #BE90F2;">GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" />
 </p>
 
 ---
