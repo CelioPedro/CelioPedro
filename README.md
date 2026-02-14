@@ -133,11 +133,10 @@ Studying Full Stack development focused on building web and APP solutions that c
 
 ---
 
-<h3 style="color: #BE90F2;">Socials (NOWAY⚠️NOWAY‼️NOWAY⚠️NOWAY) </h3>
+<h3 style="color: #BE90F2;">Socials</h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn">
+<p align="center"><a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/c%C3%A9lio-pedro-s%C3%A1-463268257/)" title="LinkedIn">
 <img width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-&#8287;&#8287;&#8287;<a href="https://twitter.com/seu-usuario" title="X (Twitter)"><img width="30px" src="https://cdn.simpleicons.org/x/FFFFFF" /></a>
-&#8287;&#8287;&#8287;<a href="https://discord.gg/seu-servidor" title="Discord"><img width="32px" src="https://cdn.simpleicons.org/discord/FFFFFF" /></a>
+&#8287;&#8287;&#8287;<a href="[https://discord.gg/seu-servidor](https://discord.gg/tG9KkArJ)" title="Discord"><img width="32px" src="https://cdn.simpleicons.org/discord/FFFFFF" /></a>
 &#8287;&#8287;&#8287;
 </p>
