@@ -7,23 +7,18 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=BE90F2&vCenter=true&pause=1000&size=22" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Experienced+UI%2FUX+Designer;Always+learning+new+things&font=Press+Start+2P&center=true&width=500&height=50&color=f1f1f1&vCenter=true&pause=1000&size=14" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Kotlin%20%26%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-BE90F2?style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Learning&message=Kotlin%20%26%20Compose&color=4285F4&style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Focus&message=Clean%20Architecture&color=BE90F2&style=flat&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Back&message=Spring%20Boot&color=6DB33F&style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Infra&message=Docker%20Compose&color=2496ED&style=flat&logo=docker&logoColor=white"/>
 </p>
+<h1></h1>
 
-<p align="center" style="color: #387CBC;">
-Studying Full Stack development focused on building web and APP solutions that combine high performance with excellent user experience (UX). Driven by continuous improvement (kaizen).
-</p>
-
----
-
-<h3 style="color: #BE90F2;">- Most Stack Study</h3>
+<h3 style="color: #BE90F2;">- More Stack Studied</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
