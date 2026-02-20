@@ -1,9 +1,20 @@
-<h1 align="center" style="color: #70A4FC;">Hello World! I'm Célio. Or Pedro.</h1>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=BE90F2&vCenter=true&pause=1000&size=22" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Kotlin%20%26%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-BE90F2?style=for-the-badge" />
 </p>
 
 <p align="center" style="color: #387CBC;">
@@ -12,7 +23,7 @@ Studying Full Stack development focused on building web and APP solutions that c
 
 ---
 
-<h3 style="color: #BE90F2;">Most Stack Study</h3>
+<h3 style="color: #BE90F2;">- Most Stack Study</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
@@ -22,22 +33,45 @@ Studying Full Stack development focused on building web and APP solutions that c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
 </p>
 
+
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" />
+<img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="30" title="Jetpack Compose" />
+
 </p>
 
----
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" />
 
-<h3 style="color: #BE90F2;">GitHub Stats</h3>
+</p>
+
+
+<h3 style="color: #BE90F2;">- GitHub Stats</h3>
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CelioPedro&layout=compact&theme=dark&hide_border=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" />
+
 </p>
 
----
+<h1></h1> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/> 
+  
+### More About Me:
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+
 
 <details> 
   <summary><h2>Interest in</h2></summary>
@@ -131,12 +165,17 @@ Studying Full Stack development focused on building web and APP solutions that c
   </p>
 </details>
 
----
 
-<h3 style="color: #BE90F2;">Socials</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/c%C3%A9lio-pedro-s%C3%A1-463268257/" title="LinkedIn">
+<p align="right"><a href="https://www.linkedin.com/in/c%C3%A9lio-pedro-s%C3%A1-463268257/" title="LinkedIn">
 <img width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 &#8287;&#8287;&#8287;<a href="https://discord.gg/tG9KkArJ" title="Discord"><img width="32px" src="https://cdn.simpleicons.org/discord/FFFFFF" /></a>
 &#8287;&#8287;&#8287;
+</p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
