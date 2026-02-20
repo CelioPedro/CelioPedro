@@ -51,12 +51,16 @@ Studying Full Stack development focused on building web and APP solutions that c
 </p>
 
 
-<h3 style="color: #BE90F2;">- GitHub Stats</h3>
+<h3 style="color: #BE90F2;">📊 My GitHub Metrics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CelioPedro&layout=compact&theme=dark&hide_border=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelioPedro&theme=dark&hide_border=true&stroke=BE90F2&background=1E1E1E&ring=BE90F2&fire=BE90F2&currStreakLabel=387CBC" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CelioPedro&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" height="150px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CelioPedro&layout=compact&theme=dark&hide_border=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" height="150px" />
 </p>
 
 <h1></h1> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/> 
