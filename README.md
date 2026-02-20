@@ -73,7 +73,7 @@
 
 
 <details> 
-  <summary><h2>Interest in</h2></summary>
+  <summary><h2>Interest in 👆🏼</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -164,6 +164,7 @@
   </p>
 </details>
 
+<h1></h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
