@@ -46,7 +46,7 @@
 </p>
 
 
-<h3 style="color: #BE90F2;">📊 My GitHub Metrics</h3>
+<h3 style="color: #BE90F2;">My GitHub Metrics</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelioPedro&theme=dark&hide_border=true&stroke=BE90F2&background=1E1E1E&ring=BE90F2&fire=BE90F2&currStreakLabel=387CBC" />
