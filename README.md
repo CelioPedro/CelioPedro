@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CelioPedro&layout=compact&theme=dark&hide_border=true&title_color=BE90F2&icon_color=BE90F2&text_color=387CBC&bg_color=1E1E1E" height="150px" />
 </p>
 
-<h1></h1> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/> 
+<!--<h1></h1> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/> -->
   
 ### More About Me:
 
