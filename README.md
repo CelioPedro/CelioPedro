@@ -75,8 +75,6 @@ Ask me about Java, Web Animations, or Fedora Linux
 
 How to reach me: LinkedIn
 
-Checkout my Resume
-
 
 <details> 
   <summary><h2>Interest in 👆🏼</h2></summary>
