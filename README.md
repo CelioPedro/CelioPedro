@@ -18,7 +18,7 @@
 </p>
 <h1></h1>
 
-<h3 style="color: #BE90F2;">- most commonly studied stacks</h3>
+<h3 style="color: #BE90F2;">- most commonly studied stackssss</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
