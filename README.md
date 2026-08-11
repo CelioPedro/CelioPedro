@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Learning&message=Kotlin%20%26%20Compose&color=4285F4&style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?label=Focus&message=Clean%20Architecture&color=BE90F2&style=flat&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=Back&message=Spring%20Boot&color=6DB33F&style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields/v1?label=Back&message=Spring%20Boot&color=6DB33F&style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?label=Infra&message=Docker%20Compose&color=2496ED&style=flat&logo=docker&logoColor=white"/>
 </p>
 <h1></h1>
