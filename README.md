@@ -18,7 +18,7 @@
 </p>
 <h1></h1>
 
-<h3 style="color: #BE90F2;">Main</h3>
+<h3 style="color: #BE90F2;">Main Stack</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
@@ -46,16 +46,20 @@
 
 <h1></h1>
 
-<!-- === NOVA SEÇÃO DE PROJETOS AQUI === -->
-<h3 style="color: #BE90F2;">🚀 Projetos em Destaque</h3>
+<!-- === SEÇÃO DE PROJETOS === -->
+<h3 style="color: #BE90F2;">Projetos Desenvolvidos</h3>
 <br>
 
+<!-- === O pirataaaa === -->
+
 <div align="center">
-  <h2>🏴‍☠️ The Pirate Max</h2>
+  <h3>
+    <img src="https://github.com/user-attachments/assets/3c426399-fe22-47ce-a040-23e611a6015e" height="70" align="absmiddle" />
+    &nbsp;The Pirate Max
+  </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
   
-  <!-- ATENÇÃO: Substitua o link abaixo pela URL da sua imagem (você pode subir a imagem em uma issue do seu repositório para gerar um link) -->
-  <img src="COLOQUE_O_LINK_DA_SUA_IMAGEM_AQUI.png" alt="The Pirate Max Mockups" width="800" />
+  <img src="https://github.com/user-attachments/assets/9d206418-b6a5-48c7-a6a1-f4a0f4e8a25b" alt="The Pirate Max Mockups" width="800" />
   <br><br>
   
   <p>
@@ -63,21 +67,63 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Learning-Full_Stack-gray?style=flat-square" alt="Learning" />
-    <img src="https://img.shields.io/badge/Front-React_%2B_Vite-4285F4?style=flat-square" alt="Front" />
-    <img src="https://img.shields.io/badge/Focus-Digital_Marketplace-black?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Architecture-Clean_Layers-673AB7?style=flat-square" alt="Architecture" />
-    <img src="https://img.shields.io/badge/Back-Spring_Boot-0F9D58?style=flat-square" alt="Back" />
-    <img src="https://img.shields.io/badge/Infra-Docker_%2B_Nginx-00ACC1?style=flat-square" alt="Infra" />
+  <img alt="Learning" src="https://img.shields.io/badge/Learning-Full%20Stack-6b7280?style=flat&logo=academia&logoColor=white">
+  <img alt="Frontend" src="https://img.shields.io/badge/Front-React%20%2B%20Vite-2563eb?style=flat&logo=react&logoColor=white">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Digital%20Marketplace-52525b?style=flat&logo=target&logoColor=white">
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Layers-8b5cf6?style=flat&logo=gitbook&logoColor=white">
+  <img alt="Backend" src="https://img.shields.io/badge/Back-Spring%20Boot-16a34a?style=flat&logo=springboot&logoColor=white">
+  <img alt="Database" src="https://img.shields.io/badge/Database-PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Infra" src="https://img.shields.io/badge/Infra-Docker%20Compose-0284c7?style=flat&logo=docker&logoColor=white">
+</p>
+
+<p>
+  <a href="https://the-pirate-frontend.vercel.app"><img alt="Frontend live" src="https://img.shields.io/badge/Frontend-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://api.163.176.60.109.sslip.io/actuator/health"><img alt="API health" src="https://img.shields.io/badge/API-Healthcheck-0ea5e9?style=flat-square&logo=springboot&logoColor=white"></a>
+  <a href="https://github.com/CelioPedro/ThePirate"><img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="Project status" src="https://img.shields.io/badge/Status-Em%20Produção-10b981?style=flat-square">
+</p>
+
+> Status: Em produção. O projeto demonstra arquitetura sólida, fluxo de compra digital real e operação estável em ambiente público (banco de dados próprio + Docker Compose).
+
+</div>
+<h1></h1>
+
+
+<!-- === Hipocrates safado === -->
+
+<div align="center">
+  <h3>
+    <img src="https://github.com/user-attachments/assets/3c426399-fe22-47ce-a040-23e611a6015e" height="70" align="absmiddle" />
+    &nbsp;Hipócrates
+  </h3>
+  <p><b>Plataforma com Inteligência Artificial integrada para cruzar seus sintomas com milhares de dados clínicos, direcionando você ao especialista exato que precisa, no momento certo.</b></p>
+  
+  <img src="https://github.com/user-attachments/assets/42453687-731a-4189-bd93-2a200b673224" alt="Hipo Mockups" width="800" />
+  <br><br>
+  
+  <p>
+    The Pirate Max demonstra uma operação realista de venda de produtos digitais: catálogo, autenticação, carrinho, pedidos, painel administrativo, estoque de credenciais, backend em produção e deploy com HTTPS.
   </p>
 
   <p>
-    <!-- ATENÇÃO: Substitua os '#' pelos links reais do seu projeto -->
-    <a href="#"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=for-the-badge" alt="Frontend Live" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/API-Healthcheck-03a9f4?style=for-the-badge" alt="API Healthcheck" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" /></a>
-    <img src="https://img.shields.io/badge/Status-MVP_técnico_em_validação-ff9800?style=for-the-badge" alt="Status" />
-  </p>
+  <img alt="Learning" src="https://img.shields.io/badge/Learning-Full%20Stack-6b7280?style=flat&logo=academia&logoColor=white">
+  <img alt="Frontend" src="https://img.shields.io/badge/Front-React%20%2B%20Vite-2563eb?style=flat&logo=react&logoColor=white">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Digital%20Marketplace-52525b?style=flat&logo=target&logoColor=white">
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Layers-8b5cf6?style=flat&logo=gitbook&logoColor=white">
+  <img alt="Backend" src="https://img.shields.io/badge/Back-Spring%20Boot-16a34a?style=flat&logo=springboot&logoColor=white">
+  <img alt="Database" src="https://img.shields.io/badge/Database-PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Infra" src="https://img.shields.io/badge/Infra-Docker%20Compose-0284c7?style=flat&logo=docker&logoColor=white">
+</p>
+
+<p>
+  <a href="https://the-pirate-frontend.vercel.app"><img alt="Frontend live" src="https://img.shields.io/badge/Frontend-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://api.163.176.60.109.sslip.io/actuator/health"><img alt="API health" src="https://img.shields.io/badge/API-Healthcheck-0ea5e9?style=flat-square&logo=springboot&logoColor=white"></a>
+  <a href="https://github.com/CelioPedro/ThePirate"><img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="Project status" src="https://img.shields.io/badge/Status-Em%20Produção-10b981?style=flat-square">
+</p>
+
+> Status: Em produção. O projeto demonstra arquitetura sólida, fluxo de compra digital real e operação estável em ambiente público (banco de dados próprio + Docker Compose).
+
 </div>
 
 <br>
