@@ -29,8 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
 </p>
 
-
-
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
@@ -46,6 +44,45 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="30"/>
 </p>
 
+<h1></h1>
+
+<!-- === NOVA SEÇÃO DE PROJETOS AQUI === -->
+<h3 style="color: #BE90F2;">🚀 Projetos em Destaque</h3>
+<br>
+
+<div align="center">
+  <h2>🏴‍☠️ The Pirate Max</h2>
+  <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
+  
+  <!-- ATENÇÃO: Substitua o link abaixo pela URL da sua imagem (você pode subir a imagem em uma issue do seu repositório para gerar um link) -->
+  <img src="COLOQUE_O_LINK_DA_SUA_IMAGEM_AQUI.png" alt="The Pirate Max Mockups" width="800" />
+  <br><br>
+  
+  <p>
+    The Pirate Max demonstra uma operação realista de venda de produtos digitais: catálogo, autenticação, carrinho, pedidos, painel administrativo, estoque de credenciais, backend em produção e deploy com HTTPS.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Learning-Full_Stack-gray?style=flat-square" alt="Learning" />
+    <img src="https://img.shields.io/badge/Front-React_%2B_Vite-4285F4?style=flat-square" alt="Front" />
+    <img src="https://img.shields.io/badge/Focus-Digital_Marketplace-black?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Architecture-Clean_Layers-673AB7?style=flat-square" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Back-Spring_Boot-0F9D58?style=flat-square" alt="Back" />
+    <img src="https://img.shields.io/badge/Infra-Docker_%2B_Nginx-00ACC1?style=flat-square" alt="Infra" />
+  </p>
+
+  <p>
+    <!-- ATENÇÃO: Substitua os '#' pelos links reais do seu projeto -->
+    <a href="#"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=for-the-badge" alt="Frontend Live" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/API-Healthcheck-03a9f4?style=for-the-badge" alt="API Healthcheck" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" /></a>
+    <img src="https://img.shields.io/badge/Status-MVP_técnico_em_validação-ff9800?style=for-the-badge" alt="Status" />
+  </p>
+</div>
+
+<br>
+<h1></h1>
+<!-- =================================== -->
 
 <h3 style="color: #BE90F2;">GitHub Metrics</h3>
 
