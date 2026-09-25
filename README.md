@@ -59,7 +59,7 @@
   </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
   
-  <img src="https://github.com/user-attachments/assets/9d206418-b6a5-48c7-a6a1-f4a0f4e8a25b" alt="The Pirate Max Mockups" width="800" />
+  <img src="https://github.com/user-attachments/assets/013c5b92-9ccb-4094-81dd-22021d1b4f61" width="800" />
   <br><br>
   
   <p>
@@ -98,7 +98,7 @@
   </h3>
   <p><b>Plataforma com Inteligência Artificial integrada para cruzar seus sintomas com milhares de dados clínicos, direcionando você ao especialista exato que precisa, no momento certo.</b></p>
   
-  <img src="https://github.com/user-attachments/assets/42453687-731a-4189-bd93-2a200b673224" alt="Hipo Mockups" width="800" />
+  <img src="https://github.com/user-attachments/assets/95d0a2dd-37ed-473e-933f-37704471384b"  width="800" />
   <br><br>
   
  <p>
@@ -126,6 +126,45 @@
 
   <p>
     <sub><i>Status: MVP Funcional. O projeto demonstra a integração de serviços de Inteligência Artificial com uma arquitetura sólida, garantindo segurança, escalabilidade e operação estável em ambiente dockerizado com banco de dados próprio.</i></sub>
+  </p>
+</div>
+
+<h1></h1>
+
+<!-- === Stickeer nicker fuckiiing mind === -->
+
+<div align="center">
+  <h3>
+    <!-- Substitua o link abaixo pelo caminho ou link da logo transparente que passei (ex: ./assets/logo_transparent.png) -->
+    <img src="https://github.com/user-attachments/assets/c6ee39f8-80ab-4663-b98f-dd001f485ab0" height="80" align="absmiddle" />
+    &nbsp;Stick Mind
+  </h3>
+  <p><b>Plataforma interativa com Inteligência Artificial integrada focada em expandir o potencial humano, combinando neurociência e tecnologia imersiva para o autodomínio cognitivo.</b></p>
+  
+  <!-- Substitua pelo link dos mockups do Stick Mind -->
+  <img src="https://github.com/user-attachments/assets/9c7432d9-fdb4-4a27-b590-e98d0ff5801d" alt="Stick Mind Mockups" width="800" />
+  <br><br>
+  
+ <p>
+    O Stick Mind revoluciona a forma como interagimos com o autodesenvolvimento. A plataforma oferece uma experiência sensorial única através de renderizações WebGL em 3D e animações baseadas em rolagem (Scroll-Driven), simulando uma "mente interativa". O sistema conta com uma interface de <i>glassmorphism</i> fluida, arquitetura modular Vanilla de alta performance (60fps) e responsividade impecável em todos os dispositivos.
+  </p>
+  <!-- Badges de Tecnologia (Ajustados para o stack do Stick Mind) -->
+  <p>
+    <img src="https://img.shields.io/badge/Learning-AI_%26_Neuroscience-fff?style=flat" alt="AI Integration" />
+    <img src="https://img.shields.io/badge/Front-Vanilla_JS-F7DF1E?style=flat" alt="Front" />
+    <img src="https://img.shields.io/badge/Focus-Cognitive_Enhancement-black?style=flat" alt="Focus" />
+    <img src="https://img.shields.io/badge/WebGL-Three.js-673AB7?style=flat" alt="WebGL" />
+    <img src="https://img.shields.io/badge/Animations-GSAP-88CE02?style=flat" alt="Animations" />
+    <img src="https://img.shields.io/badge/Styling-CSS3_Custom_Properties-1572B6?style=flat" alt="CSS3" />
+  </p>
+  <!-- Badges de Links -->
+  <p>
+    <a href="https://celiopedro.github.io/FrontStickMind/"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=flat" alt="Frontend Live" /></a>
+    <a href="https://github.com/CelioPedro/FrontStickMind"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub Repository" /></a>
+    <img src="https://img.shields.io/badge/Status-Live_Landing_Page-ff9800?style=flat" alt="Status" />
+  </p>
+  <p>
+    <sub><i>Status: Landing Page Interativa Funcional. O projeto demonstra o domínio de computação gráfica no navegador (Three.js), orquestração complexa de animações e otimização robusta para dispositivos móveis sem o uso de frameworks pesados.</i></sub>
   </p>
 </div>
 
