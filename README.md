@@ -93,7 +93,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/user-attachments/assets/3c426399-fe22-47ce-a040-23e611a6015e" height="70" align="absmiddle" />
+    <img src="https://github.com/user-attachments/assets/d41f1c2f-e018-4511-b252-6531d52ee573" height="60" align="absmiddle" />
     &nbsp;Hipócrates
   </h3>
   <p><b>Plataforma com Inteligência Artificial integrada para cruzar seus sintomas com milhares de dados clínicos, direcionando você ao especialista exato que precisa, no momento certo.</b></p>
@@ -101,32 +101,34 @@
   <img src="https://github.com/user-attachments/assets/42453687-731a-4189-bd93-2a200b673224" alt="Hipo Mockups" width="800" />
   <br><br>
   
+ <p>
+    O Hipócrates revoluciona o atendimento primário utilizando IA para uma triagem inteligente. A plataforma processa os sintomas relatados pelo paciente, analisa com base em dados médicos e recomenda automaticamente o especialista mais adequado. O sistema conta com interface responsiva e intuitiva, fluxos de agendamento e um backend robusto preparado para gerir dados sensíveis com segurança e agilidade.
+  </p>
+
+  <!-- Badges de Tecnologia (Ajustados para o foco do projeto) -->
   <p>
-    The Pirate Max demonstra uma operação realista de venda de produtos digitais: catálogo, autenticação, carrinho, pedidos, painel administrativo, estoque de credenciais, backend em produção e deploy com HTTPS.
+    <img src="https://img.shields.io/badge/Learning-AI_Integration-fff?style=flat" alt="AI Integration" />
+    <img src="https://img.shields.io/badge/Front-React_%2B_Vite-4285F4?style=flat" alt="Front" />
+    <img src="https://img.shields.io/badge/Focus-Healthcare_%26_AI-black?style=flat" alt="Focus" />
+    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-673AB7?style=flat" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Back-Spring_Boot-0F9D58?style=flat" alt="Back" />
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat" alt="Database" />
+    <img src="https://img.shields.io/badge/Infra-Docker_Compose-00ACC1?style=flat" alt="Infra" />
+  </p>
+
+  <!-- Badges de Links -->
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=flat" alt="Frontend Live" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/API-Healthcheck-03a9f4?style=flat" alt="API Healthcheck" /></a>
+    <a href="https://github.com/CelioPedro/Hip-crates"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub Repository" /></a>
+    <img src="https://img.shields.io/badge/Status-MVP-ff9800?style=flat" alt="Status" />
   </p>
 
   <p>
-  <img alt="Learning" src="https://img.shields.io/badge/Learning-Full%20Stack-6b7280?style=flat&logo=academia&logoColor=white">
-  <img alt="Frontend" src="https://img.shields.io/badge/Front-React%20%2B%20Vite-2563eb?style=flat&logo=react&logoColor=white">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Digital%20Marketplace-52525b?style=flat&logo=target&logoColor=white">
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Layers-8b5cf6?style=flat&logo=gitbook&logoColor=white">
-  <img alt="Backend" src="https://img.shields.io/badge/Back-Spring%20Boot-16a34a?style=flat&logo=springboot&logoColor=white">
-  <img alt="Database" src="https://img.shields.io/badge/Database-PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white">
-  <img alt="Infra" src="https://img.shields.io/badge/Infra-Docker%20Compose-0284c7?style=flat&logo=docker&logoColor=white">
-</p>
-
-<p>
-  <a href="https://the-pirate-frontend.vercel.app"><img alt="Frontend live" src="https://img.shields.io/badge/Frontend-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://api.163.176.60.109.sslip.io/actuator/health"><img alt="API health" src="https://img.shields.io/badge/API-Healthcheck-0ea5e9?style=flat-square&logo=springboot&logoColor=white"></a>
-  <a href="https://github.com/CelioPedro/ThePirate"><img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <img alt="Project status" src="https://img.shields.io/badge/Status-Em%20Produção-10b981?style=flat-square">
-</p>
-
-> Status: Em produção. O projeto demonstra arquitetura sólida, fluxo de compra digital real e operação estável em ambiente público (banco de dados próprio + Docker Compose).
-
+    <sub><i>Status: MVP Funcional. O projeto demonstra a integração de serviços de Inteligência Artificial com uma arquitetura sólida, garantindo segurança, escalabilidade e operação estável em ambiente dockerizado com banco de dados próprio.</i></sub>
+  </p>
 </div>
 
-<br>
 <h1></h1>
 <!-- =================================== -->
 
