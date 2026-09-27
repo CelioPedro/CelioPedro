@@ -135,7 +135,6 @@
 
 <div align="center">
   <h3>
-    <!-- Substitua o link abaixo pelo caminho ou link da logo transparente que passei (ex: ./assets/logo_transparent.png) -->
     <img src="https://github.com/user-attachments/assets/c6ee39f8-80ab-4663-b98f-dd001f485ab0" height="80" align="absmiddle" />
     &nbsp;Stick Mind
   </h3>
