@@ -47,7 +47,7 @@
 <h1></h1>
 
 <!-- === SEÇÃO DE PROJETOS === -->
-<h3 style="color: #BE90F2;">Projetos Desenvolvidos</h3>
+<h3 style="color: #BE90F2;">Projetos Desenvolvidos (midias apenas em desktop por enquanto</h3>
 <br>
 
 <!-- === O pirataaaa === -->
