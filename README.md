@@ -54,7 +54,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/user-attachments/assets/3c426399-fe22-47ce-a040-23e611a6015e" height="70" align="absmiddle" />
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/piratelogo.png?raw=true" height="70" align="absmiddle" />
     &nbsp;The Pirate Max
   </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
@@ -93,12 +93,12 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/user-attachments/assets/d41f1c2f-e018-4511-b252-6531d52ee573" height="60" align="absmiddle" />
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/hipologo.png?raw=true" height="60" align="absmiddle" />
     &nbsp;Hipócrates
   </h3>
   <p><b>Plataforma com Inteligência Artificial integrada para cruzar seus sintomas com milhares de dados clínicos, direcionando você ao especialista exato que precisa, no momento certo.</b></p>
   
-  <img src="https://github.com/user-attachments/assets/95d0a2dd-37ed-473e-933f-37704471384b"  width="800" />
+  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202564.png?raw=true"  width="800" />
   <br><br>
   
  <p>
@@ -135,13 +135,12 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/user-attachments/assets/c6ee39f8-80ab-4663-b98f-dd001f485ab0" height="80" align="absmiddle" />
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/stickmind_logo_transparent.png?raw=true" height="80" align="absmiddle" />
     &nbsp;Stick Mind
   </h3>
   <p><b>Plataforma interativa com Inteligência Artificial integrada focada em expandir o potencial humano, combinando neurociência e tecnologia imersiva para o autodomínio cognitivo.</b></p>
   
-  <!-- Substitua pelo link dos mockups do Stick Mind -->
-  <img src="https://github.com/user-attachments/assets/9c7432d9-fdb4-4a27-b590-e98d0ff5801d" alt="Stick Mind Mockups" width="800" />
+  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202570.png?raw=true" alt="Stick Mind Mockups" width="800" />
   <br><br>
   
  <p>
