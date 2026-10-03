@@ -54,7 +54,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/piratelogo.png?raw=true" height="70" align="absmiddle" />
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/piratelogo.png?raw=true" height="60" align="absmiddle" />
     &nbsp;The Pirate Max
   </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
