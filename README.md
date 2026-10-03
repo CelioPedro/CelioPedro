@@ -54,12 +54,16 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/piratelogo.png?raw=true" height="60" align="absmiddle" />
-    &nbsp;The Pirate Max
+    <a href="https://www.thepiratemax.com.br/" target="_blank">
+      <img src="https://github.com/CelioPedro/CelioPedro/blob/main/piratelogo.png?raw=true" height="60" align="absmiddle" /></a>
+      &nbsp;The Pirate Max
+    
   </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
   
-  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202554.png?raw=true" width="800" />
+  <a href="https://www.thepiratemax.com.br/" target="_blank">
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202554.png?raw=true" width="800" />
+  </a>
   <br><br>
   
   <p>
@@ -77,7 +81,7 @@
 </p>
 
 <p>
-  <a href="https://the-pirate-frontend.vercel.app"><img alt="Frontend live" src="https://img.shields.io/badge/Frontend-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.thepiratemax.com.br/"><img alt="Frontend live" src="https://img.shields.io/badge/Frontend-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://api.163.176.60.109.sslip.io/actuator/health"><img alt="API health" src="https://img.shields.io/badge/API-Healthcheck-0ea5e9?style=flat-square&logo=springboot&logoColor=white"></a>
   <a href="https://github.com/CelioPedro/ThePirate"><img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
   <img alt="Project status" src="https://img.shields.io/badge/Status-Em%20Produção-10b981?style=flat-square">
@@ -93,12 +97,16 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/hipologo.png?raw=true" height="60" align="absmiddle" />
-    &nbsp;Hipócrates
+    <a href="https://celiopedro.github.io/Hip-crates/" target="_blank">
+      <img src="https://github.com/CelioPedro/CelioPedro/blob/main/hipologo.png?raw=true" height="60" align="absmiddle" /></a>
+      &nbsp;Hipócrates
+    
   </h3>
   <p><b>Plataforma com Inteligência Artificial integrada para cruzar seus sintomas com milhares de dados clínicos, direcionando você ao especialista exato que precisa, no momento certo.</b></p>
   
-  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202564.png?raw=true"  width="800" />
+  <a href="https://celiopedro.github.io/Hip-crates/" target="_blank">
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202564.png?raw=true"  width="800" />
+  </a>
   <br><br>
   
  <p>
@@ -118,7 +126,7 @@
 
   <!-- Badges de Links -->
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=flat" alt="Frontend Live" /></a>
+    <a href="https://celiopedro.github.io/Hip-crates/"><img src="https://img.shields.io/badge/Frontend-Live-4caf50?style=flat" alt="Frontend Live" /></a>
     <a href="#"><img src="https://img.shields.io/badge/API-Healthcheck-03a9f4?style=flat" alt="API Healthcheck" /></a>
     <a href="https://github.com/CelioPedro/Hip-crates"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub Repository" /></a>
     <img src="https://img.shields.io/badge/Status-MVP-ff9800?style=flat" alt="Status" />
@@ -135,12 +143,16 @@
 
 <div align="center">
   <h3>
-    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/stickmind_logo_transparent.png?raw=true" height="80" align="absmiddle" />
-    &nbsp;Stick Mind
+    <a href="https://celiopedro.github.io/FrontStickMind/" target="_blank">
+      <img src="https://github.com/CelioPedro/CelioPedro/blob/main/stickmind_logo_transparent.png?raw=true" height="80" align="absmiddle" /></a>
+      &nbsp;Stick Mind
+    
   </h3>
   <p><b>Plataforma interativa com Inteligência Artificial integrada focada em expandir o potencial humano, combinando neurociência e tecnologia imersiva para o autodomínio cognitivo.</b></p>
   
-  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202570.png?raw=true" alt="Stick Mind Mockups" width="800" />
+  <a href="https://celiopedro.github.io/FrontStickMind/" target="_blank">
+    <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202570.png?raw=true" alt="Stick Mind Mockups" width="800" />
+  </a>
   <br><br>
   
  <p>
