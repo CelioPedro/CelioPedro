@@ -47,7 +47,7 @@
 <h1></h1>
 
 <!-- === SEÇÃO DE PROJETOS === -->
-<h3 style="color: #BE90F2;">Projetos Desenvolvidos (midias apenas em desktop por enquanto</h3>
+<h3 style="color: #BE90F2;">Projetos Desenvolvidos</h3>
 <br>
 
 <!-- === O pirataaaa === -->
@@ -59,7 +59,7 @@
   </h3>
   <p><b>Marketplace digital full stack com entrega automatizada de credenciais</b></p>
   
-  <img src="https://github.com/user-attachments/assets/013c5b92-9ccb-4094-81dd-22021d1b4f61" width="800" />
+  <img src="https://github.com/CelioPedro/CelioPedro/blob/main/Group%202554.png?raw=true" width="800" />
   <br><br>
   
   <p>
